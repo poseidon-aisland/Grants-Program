@@ -28,7 +28,7 @@ module.exports = {
     announcementBar: {
       id: 'announcement',
       content:
-        'Check out our <a target="_blank" rel="noopener noreferrer" href="https://medium.com/web3foundation/web3-foundation-grants-wave-18-recipients-9ce442a88c48">Wave 18 blogpost</a>',
+        'Watch our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=8Na99WRGypY">sub0 presentation on Support in the Polkadot Ecosystem</a>!',
       backgroundColor: '#000',
       textColor: '#ffffff',
       isCloseable: true,
@@ -83,6 +83,10 @@ module.exports = {
             {
               label: 'Privacy Policy',
               to: 'docs/Support%20Docs/privacy_policy',
+            },
+            {
+              label: 'Legal Disclosures',
+              to: 'https://web3.foundation/legal-disclosures/',
             },
           ],
         }, 
